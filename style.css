@@ -21,6 +21,41 @@
 		.black {margin:auto; background: gray; width:1280px; }
 		.black img{width:1280px;}
 
+		#mainbody1{margin:auto; width:1280px; height:6400px; background:grey;}
+		.colorbar{width:160px; background:red; float:left;}
+		.titlebar{width:1120px; height:320px; position:relative; float:left; background:blue;}
+		.specbar{height:400px; width:1120px; position:relative; float:left; background:white;}
+		.specbar p{ font-size:1.2em; line-height:1.8em; margin:0px;  padding-left:40px; padding-top:24px;  font-family: 'Gothic A1', sans-serif; float:left; }
+		.specbar p2{ font-size:1.2em; line-height:1.8em; padding-left:28px; padding-top:24px; font-family: 'Gothic A1', sans-serif; float:left; }
+		.bar2{ width:1120px; position:relative; float:left; background:blue; height:800px; }
+		.gametitle{ position:relative; float:left; width: 560px; height:800px; background:red;}
+		.gametitle img{width:100%;}
+		.gametitle p{font-size: 1.2em; text-align:right; padding-right:20px;}
+		.korfont {font-family: 'Gothic A1', sans-serif;}
+		.kortitle {font-family: 'Do Hyeon', sans-serif; font-size:2.5em;}
+		.bar3{ width:1120px; position:relative; float:left; background:blue; height:480px; }
+		.bar3 img{position:relative; left:320px; top:168px;}
+		.bar4{ width:1120px; position:relative; float:left; background:red;}
+		.balls {float:left; }
+		.barh { float:left;  padding-left: 40px; padding-top:88px; background:grey; width:520px;}
+		.barhead {float:left; margin:auto; padding-left:10px;}
+		.barpara {float:left; margin:auto; width:520px; background:green; font-size:1.1em; line-height:1.9em;}
+		.imgbar {float:left; margin:auto; width:560px; height:695px; background:yellow;}
+		.barimg2 {position:relative; left:124px; top:75px; }
+		.bar5 {float:left;}
+		.bar5img {float:left;}
+		.barimg5 {position:relative; left:40px; top:140px; }
+		.bar6 {float:left; width:1120px; height:870px; background:yellow;}
+		.bar6para {padding:30px; text-align:right;}
+		.bar7 {float:left; width:1120px; height:1167px;}
+
+		#mainbody2{margin:auto; width:1280px; height:7200px; background:grey;}
+		.imgbar2{float:left;}
+		.newtype{text-align:center; padding-top:50px; margin-bottom:250px;}
+		.imgbar3{float:left; height:367px; width:560px; background:yellow;}
+		.imgbar4{float:left; height:440px; width:560px; background:yellow;}
+		.imgbar5{float:left; padding-top:138px;}
+
 		#footer{width:1280px; margin:auto; background: white; position:relative;}
 		#footer h1{font-family: 'Righteous', cursive; text-align: center; width:1280px; height:160px; margin:auto; background: white; line-height: 80px; font-size:1.5em; color:grey;}
 		#footer p{margin: auto; width: 1280px; font-size:0.8em; text-align:left; line-height:1.6em; padding-left:20px;}
