@@ -17,18 +17,18 @@
 		nav #menuList div{height:0px;}
 		nav #menuList .main-menu-item{font-family: 'Righteous', cursive; list-style:none; width: 160px; height:45px;}
 		nav #menuList a{display:block; height:45px; text-align:center; line-height:45px;}
-		nav #menuList a:hover {color:white; background: black;}
-		.black {margin:auto; background: gray; width:1280px; }
+		nav #menuList a:hover {color:white; background : black;}
+		.black {margin:auto; width:1280px; }
 		.black img{width:1280px;}
 
-		#mainbody1{margin:auto; width:1280px; height:6400px; background:white;}
-		.colorbar{width:160px;  float:left;}
+		#mainbody1{margin:auto; width:1280px; height:6400px; }
+		.colorbar{width:160px; :red; float:left;}
 		.titlebar{width:1120px; height:320px; position:relative; float:left; }
-		.specbar{height:400px; width:1120px; position:relative; float:left; background:white;}
+		.specbar{height:400px; width:1120px; position:relative; float:left; }
 		.specbar p{ font-size:1.2em; line-height:1.8em; margin:0px;  padding-left:40px; padding-top:24px;  font-family: 'Gothic A1', sans-serif; float:left; }
 		.specbar p2{ font-size:1.2em; line-height:1.8em; padding-left:28px; padding-top:24px; font-family: 'Gothic A1', sans-serif; float:left; }
 		.bar2{ width:1120px; position:relative; float:left; height:800px; }
-		.gametitle{ position:relative; float:left; width: 560px; height:800px;}
+		.gametitle{ position:relative; float:left; width: 560px; height:800px; }
 		.gametitle img{width:100%;}
 		.gametitle p{font-size: 1.2em; text-align:right; padding-right:20px;}
 		.korfont {font-family: 'Gothic A1', sans-serif;}
@@ -37,9 +37,9 @@
 		.bar3 img{position:relative; left:320px; top:168px;}
 		.bar4{ width:1120px; position:relative; float:left; }
 		.balls {float:left; }
-		.barh { float:left;  padding-left: 40px; padding-top:88px; width:520px;}
+		.barh { float:left;  padding-left: 40px; padding-top:88px; :grey; width:520px;}
 		.barhead {float:left; margin:auto; padding-left:10px;}
-		.barpara {float:left; margin:auto; width:520px;  font-size:1.1em; line-height:1.9em;}
+		.barpara {float:left; margin:auto; width:520px; :green; font-size:1.1em; line-height:1.9em;}
 		.imgbar {float:left; margin:auto; width:560px; height:695px; }
 		.barimg2 {position:relative; left:124px; top:75px; }
 		.bar5 {float:left;}
@@ -49,13 +49,63 @@
 		.bar6para {padding:30px; text-align:right;}
 		.bar7 {float:left; width:1120px; height:1167px;}
 
-		#mainbody2{margin:auto; width:1280px; height:7200px; background:white;}
+		#mainbody2{margin:auto; width:1280px; height:7200px; }
 		.imgbar2{float:left;}
 		.newtype{text-align:center; padding-top:50px; margin-bottom:250px;}
 		.imgbar3{float:left; height:367px; width:560px; }
 		.imgbar4{float:left; height:440px; width:560px; }
 		.imgbar5{float:left; padding-top:138px;}
 
-		#footer{width:1280px; margin:auto; background: white; position:relative;}
+		#mainbody3{margin:auto; width:1280px; height:9200px;}
+		.gametitle4{ position:relative; float:left; width: 1120px;}
+		.gametitle4 img{width:840px;}
+		.rubys{position:relative; left:40px;}
+		.sapphires{position:relative; left:280px;}
+		.bar33{ width:1120px; position:relative; float:left; height:1470px; }
+		.bar34{ width:1120px; position:relative; float:left; height:1160px; }
+		.gradon{ position: absolute; top:108px; left:40px; }
+		.kyogre{ width:728px; height:728px; position: absolute; top:433px; left:393px; }
+		.bar345{ position: absolute; top:318px; left:728px; }
+		.bar345 h1{ color:#D80000; }
+		.bar3456{ position: absolute; top:900px; left:160px; }
+		.bar3456 h1{ color:#1F00D8; }
+		.houen { font-size:1.2em; line-height:1.8em; font-family: 'Gothic A1', sans-serif; }
+		.bar34567 { float:left; position:relative; width:1120px; height: 380px; }
+		.bar345678 { float:left; position:relative; width:1120px; height: 168px; }
+		.bar4 iframe { position:relative; left:60px; }
+		.world { position:relative; left:60px; width:1000px;}
+		.pachi { position:relative; top:100px; left:60px; }
+
+		.bar44 { position:relative; float:left; width:1120px; height:375px;}
+		.ninwifi { width:250px; position:relative; top:120px; left:173px;}
+		.bar444 { position:relative; float:left; width:1120px; height:246px; }
+		.gen456 { position:relative; float:left; left:84px; }
+		.gen4567 { position:relative; float:left; left:84px; }
+		.head4 { position:relative; left:100px; height:295px; }
+		.gengen { position:relative; top:200px; line-height:1.5em; }
+		.imgbar44 {float:left; height:500px; width:560px; }
+		.imgbar44 img { position:relative; left:60px; }
+		.imgbar444 { float:left; height:420px; width:560px; }
+		.imgbar444 img { position:relative; top:36px; left:40px; width:520px; }
+		.imgbar444 p { position:relative; text-align:right; top:100px; line-height:1.5em; }
+		.bar44444 { float:left; position:relative; width:1120px; height: 558px; }
+		.bar4444 { float:left; position:relative; width:1120px; height: 220px; }
+		.img4-7 { position:relative; top:150px; }
+		.bar45678 { float:left; position:relative; width:1120px; height: 220px; }
+		.img4-8 { position:relative; width:520px; margin:auto;}
+
+		#mainbody5{margin:auto; width:1280px; height:8200px;}
+		.imgbar3 video {position:relative; left:40px;}
+		.reshiram { position: absolute; top:155px; left:578px; }
+		.zekrom { position: absolute; top:303px; left:40px; width:560px;}
+		.hanabar { position: relative; top:700px; left:560px; }
+		.sinzitsu { margin-bottom:15px; }
+		.risou { position:relative; left:200px; margin-top:0px; }
+		.plasma { position:relative; left:411px; height:320px; }
+		.nnn h1 { position: absolute; top:450px; left:560px; }
+		.nnn p { position: absolute; top:540px; left:560px; }
+		.head5 { position:relative; left:375px; height:500px; margin:auto; line-height:250px; }
+
+		#footer{width:1280px; margin:auto; background : white; position:relative;}
 		#footer h1{font-family: 'Righteous', cursive; text-align: center; width:1280px; height:160px; margin:auto; background: white; line-height: 80px; font-size:1.5em; color:grey;}
-		#footer p{margin: auto; width: 1280px; font-size:0.8em; text-align:left; line-height:1.6em; padding-left:20px;}
+		#footer p{margin: auto; width: 1280px; font-size:0.8em; text-align:left; line-height:1.5em; padding-left:20px;}
